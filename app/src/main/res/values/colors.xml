@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="aPaint">#000080</color>
+    <color name="bPaint">#00FFFF</color>
+    <color name="cPaint">#0000FF</color>
+    <color name="dPaint">#008000</color>
+    <color name="ePaint">#e8027e</color>
+    <color name="fPaint">#f77d48</color>
+    <color name="gPaint">#55208b</color>
+    <color name="hPaint">#03a2fe</color>
+    <color name="iPaint">#e93939</color>
+    <color name="jPaint">#FFE5CC</color>
+    <color name="kPaint">#CC99FF</color>
+    <color name="lPaint">#999900</color>
+    <color name="circle">#0000CC</color>
+    <color name="red">#FF0000</color>
+    <color name="lightbrown">#975E24</color>
+    <color name="silver">#aeb5b0</color>
+    <color name="back3">#f6f6f6</color>
+    <color name="circle0">#FF9933</color>
+    <color name="hour">#ff6636</color>
+    <color name="minute">#00c1d8</color>
+    <color name="second">#04a1fd</color>
+</resources>

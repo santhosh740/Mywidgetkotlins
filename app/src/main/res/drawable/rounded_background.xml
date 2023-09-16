@@ -1,0 +1,16 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Outer Circle -->
+    <item>
+        <shape
+            android:shape="oval">
+            <solid android:color="#FF0000" /> <!-- Outer circle color (red in this example) -->
+        </shape>
+    </item>
+    <!-- Inner Circle -->
+    <item android:top="20dp" android:left="0dp" android:right="0dp" android:bottom="0dp">
+        <shape
+            android:shape="oval">
+            <solid android:color="#fff" /> <!-- Inner circle color (green in this example) -->
+        </shape>
+    </item>
+</layer-list>
